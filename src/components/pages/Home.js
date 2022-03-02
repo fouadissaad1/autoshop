@@ -1,5 +1,6 @@
 import React from "react";
 import {Container, Row, Col} from 'react-bootstrap';
+import Footer from "../Footer";
 
 export function Home() {
     return (
@@ -47,6 +48,7 @@ export function Home() {
                     src={"https://firebasestorage.googleapis.com/v0/b/autoshop-b6af9.appspot.com/o/HomePage%2Fauto.jpg?alt=media&token=ed2fd804-ee60-40dd-86a8-a35708b614c6"}
                     alt="auto Terre" height="888" width="1853"/>
             </div>
+            <Footer/>
         </>
     )
 }
