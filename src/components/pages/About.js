@@ -25,7 +25,7 @@ export function About() {
             </Container>
             <Container>
                 <Row>
-                    <Col></Col>
+                    <Col/>
                     <Col>
                         <img
                             src="https://firebasestorage.googleapis.com/v0/b/autoshop-b6af9.appspot.com/o/AboutPage%2FAuto%20reparatie%20Eindhoven.jfif?alt=media&token=fbe7c678-380b-4a5e-8e0e-85004dbe933c"
@@ -36,8 +36,7 @@ export function About() {
                             src="https://firebasestorage.googleapis.com/v0/b/autoshop-b6af9.appspot.com/o/AboutPage%2Fimages.jfif?alt=media&token=4dd10423-9e5d-40a0-86eb-4f04854f7399"
                             className="img-fluid"/>
                     </Col>
-
-                    <Col></Col>
+                    <Col/>
                 </Row>
 
             </Container>
