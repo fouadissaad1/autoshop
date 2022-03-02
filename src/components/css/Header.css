@@ -5,6 +5,40 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: indianred;
+    background-color: black;
 }
 
+p{
+    font-family: cursive;
+    color: aliceblue;
+    size: 25px;
+}
+
+h3{
+    font-family: cursive;
+    color: aliceblue;
+}
+h4{
+    font-family: cursive;
+    color: aliceblue;
+}
+.Row1 img{
+    width: 100%;
+    height: auto;
+}
+.bottom-left {
+    color: #dddddd;
+    position: absolute;
+    top: 200px;
+    bottom: 8px;
+    left: 50px;
+}
+.bottom-left h3{
+    font-size: 40px;background-color: dimgrey;
+    font-family: cursive;
+}
+.bottom-left p{
+    font-size: 20px;
+    background-color: dimgrey;
+    font-family: cursive;
+}
